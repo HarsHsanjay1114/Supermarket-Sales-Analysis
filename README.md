@@ -95,12 +95,12 @@ The analysis is structured around a 6-step analytics pipeline:
 
 ## Repository Structure
 ```
-├── SUPER MARKET DATA.xlsx                           # Primary dataset (500 records)
-├── Harsh_Agrawal_SupermarketSalesAnalysis.ipynb    # Complete executed Jupyter Notebook
-├── Harsh_Agrawal_ProjectReport.docx                # Formal capstone project report (Word)
-├── requirements.txt                                 # List of Python dependencies
-├── README.md                                        # Project documentation & GitHub overview
-└── figures/                                         # Generated visual charts
+├── SUPER MARKET DATA.xlsx                           
+├── Harsh_Agrawal_SupermarketSalesAnalysis.ipynb   
+├── Harsh_Agrawal_ProjectReport.docx                
+├── requirements.txt                                 
+├── README.md                                        
+└── figures/                                         
     ├── top_products_sales.png
     ├── sales_by_branch.png
     ├── sales_by_category.png
